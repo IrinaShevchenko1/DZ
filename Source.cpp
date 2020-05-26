@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 using namespace std;
-#define MAX 150
-#define MIN -150
+#define MAX 100
+#define MIN -100
 template<typename T>
 T retRand(T min, T max, int order = 1);//прототип шаблона фун-ии заполнения случайными числами 
 template<typename T>
